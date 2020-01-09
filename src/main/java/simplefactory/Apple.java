@@ -1,8 +1,8 @@
 package simplefactory;
 
-public class Banana implements Fruit{
+public class Apple implements Fruit{
     @Override
     public String get() {
-        return "取得香蕉";
+        return "取得苹果";
     }
 }

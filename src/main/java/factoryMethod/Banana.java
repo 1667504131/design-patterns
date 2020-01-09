@@ -1,4 +1,4 @@
-package simplefactory;
+package factoryMethod;
 
 public class Banana implements Fruit{
     @Override
