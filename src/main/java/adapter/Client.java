@@ -14,6 +14,7 @@ public class Client {
         Adaptee adaptee = new Adaptee();
         Target target = new Adapter(adaptee);
         client.test1(target);
+        System.out.println("这是我创建的一个devvv分支");
     }
 
     public void test1(Target target){
